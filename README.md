@@ -127,10 +127,5 @@ python classify.py
 * Integrate sentiment analysis module
 * Implement machine learning comparison models
 
----
 
-## Author
-
-**ReviewSense – Customer Feedback Insight Extraction**
-Infosys Springboard Milestone Submission
 
